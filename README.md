@@ -12,11 +12,11 @@ From the analysis, there were three major points from the two analysis deliverab
 * First, see the June and December statistic results below. One clearly good data point shared between both months is that the average temperature is around the low 70 degrees Fahrenheit. This suggests that for most June and December months, you can expect mild and warm temperatures, and therefore, favorable to surfing and ice cream business.
 
 <p align="center">
-  <img width="150" height="300" src= "https://github.com/chkCreate/surfs_up/blob/8d299cb0c1c3a88c3256bf30e275f8197572e175/Resources/June-temperature.PNG" >
+  <img width="200" height="300" src= "https://github.com/chkCreate/surfs_up/blob/8d299cb0c1c3a88c3256bf30e275f8197572e175/Resources/June-temperature.PNG" >
 </p>
     
 <p align="center">
-  <img width="150" height="300" src= "https://github.com/chkCreate/surfs_up/blob/8d299cb0c1c3a88c3256bf30e275f8197572e175/Resources/December-temperature.PNG" >
+  <img width="200" height="300" src= "https://github.com/chkCreate/surfs_up/blob/8d299cb0c1c3a88c3256bf30e275f8197572e175/Resources/December-temperature.PNG" >
 </p>
   
 * For the month of June, the minimum temperature is 64 Fahrenheit, which is an acceptable temperature of surfing, and ice cream partially. December months are not too cold as well, with the minimum of 56 Fahrenheit from more than 1500 datapoints. 
