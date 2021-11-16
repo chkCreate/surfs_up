@@ -3,7 +3,7 @@
   
 ### Purpose
   
-W.Avy has commissioned us to analyze temperature trends to determine if the surf and ice cream shop business is sustainable year-round. We analyzed temperature data for the months of June and December in Oahu. 
+Temperature trends were analyzed to determine if the surf and ice cream shop business is sustainable year-round. We analyzed temperature data for the months of June and December in Oahu. 
   
 ## Results
   
